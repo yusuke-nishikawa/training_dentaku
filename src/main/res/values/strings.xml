@@ -13,11 +13,13 @@
     <string name="nine">9</string>
     <string name="add">+</string>
     <string name="sub">-</string>
-    <string name="mul">×</string>
+    <string name="mul">*</string>
     <string name="div">÷</string>
     <string name="per">%</string>
     <string name="equal">=</string>
     <string name="ac">AC</string>
     <string name="comma">.</string>
     <string name="ch">±</string>
+    <string name="open">(</string>
+    <string name="close">)</string>
 </resources>
